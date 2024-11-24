@@ -25,7 +25,8 @@ This project-based course is designed for learners seeking a practical, hands-on
 * Adding calculated columns and measures.
 * Writing common formulas and functions.
 
-## Optimizing Power BI Performance: Exploring optimization tools available in the Optimize and External Tools menus.
+## Optimizing Power BI Performance
+* Exploring optimization tools available in the Optimize and External Tools menus.
 
 
 # Course Project: Business Intelligence Dashboard
