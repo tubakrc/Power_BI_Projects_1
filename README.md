@@ -1,6 +1,6 @@
 # Microsoft Power BI Desktop for Business Intelligence
 
-I completed Udemy's Microsoft Power BI Desktop for Business Intelligence course, which included a hands-on completion project using Power BI Desktop.
+I completed Udemy's *"Microsoft Power BI Desktop for Business Intelligence"* course, which included a hands-on completion project using Power BI Desktop.
 
 ## Course Overview
 This project-based course is designed for learners seeking a practical, hands-on approach to mastering Power BI Desktop for business intelligence purposes.
